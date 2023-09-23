@@ -6,3 +6,7 @@
 /myapp
 /myapp2
 build.R
+.Rdata
+.httr-oauth
+.DS_Store
+.quarto
